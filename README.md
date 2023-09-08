@@ -11,3 +11,5 @@ steps to run scraper:-
 For AWS script
 1 - update all related info for the servers ( the variable and explanations are in aws_boto.py)
 2- run the script in asgard folder directly from terminal "python aws_boto.py"
+
+urls constraint - either search results page or any page with list of products 
