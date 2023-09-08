@@ -1,5 +1,5 @@
 # asgard
-ebay scraper and aes ec2 control script
+
 clone the repo and run pip install requirements.txt to install all dependencies 
 
 steps to run scraper:-
